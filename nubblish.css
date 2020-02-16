@@ -1,0 +1,24 @@
+/* Base attributes for nubblish formatting. */
+body, form {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #FFF;
+}
+
+a {
+  color: #039;
+}
+
+a:hover {
+  color: #03F;
+}
+
+#header, #article, #footer {
+  width: 100%;
+  margin: auto;
+}
+
+.img #header {
+  text-align: center;
+}
