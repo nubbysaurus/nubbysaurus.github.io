@@ -13,7 +13,7 @@ body, form {
 }
 
 .l-portfolio {
-  text-align: center;
+  /*text-align: center;*/
   margin: 0;
   padding: 10px 50px 10px 50px;
   list-style-type: none;
