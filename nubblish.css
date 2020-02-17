@@ -9,7 +9,7 @@ body, form {
 #header {
   text-align: center;
   width: auto;
-  max-height: 100px;
+  height: auto;
 }
 
 .l-portfolio {
