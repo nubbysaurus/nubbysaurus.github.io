@@ -47,6 +47,7 @@ img.litem {
 }
 .l-grid > li {
   display: inline-block;
+  vertical-align: middle;
   max-width: 21%;
   margin: 0 50px 0 10px;
 
