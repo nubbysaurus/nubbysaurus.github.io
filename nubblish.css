@@ -13,7 +13,9 @@ body, form {
 
 #header > img {
   text-align: center;
-  /*position: relative;*/
+  background-position: bottom;
+  background-position-x: center;
+  background-position-y: bottom;
   background-repeat: repeat-x;
 }
 
