@@ -44,9 +44,11 @@ img.logo {
 .l-grid > li {
   display: inline-block;
   margin: 0 50px 0 10px;
-  max-width: 25%;
 
   /* IE7 hack to mimic inline-block on block elements */
   *display: inline;
   *zoom: 1;
+}
+.l-grid > img {
+  max-width: 25%;
 }
