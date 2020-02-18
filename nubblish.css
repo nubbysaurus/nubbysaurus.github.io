@@ -5,6 +5,9 @@ body, form {
   color: #ffffff;
   padding: 0;
 }
+h1, p {
+  margin: 21px;
+}
 
 #header {
   width: 100%;
