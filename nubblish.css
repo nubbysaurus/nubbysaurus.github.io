@@ -48,7 +48,7 @@ img.litem {
 .l-grid > li {
   display: inline-block;
   vertical-align: middle;
-  max-width: 15%;
+  max-width: 9%;
   margin: 42px 42px 42px 42px;
 
   /* IE7 hack to mimic inline-block on block elements */
