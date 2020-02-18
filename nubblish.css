@@ -47,7 +47,7 @@ img.litem {
 }
 .l-grid > li {
   display: inline-block;
-  max-width: 30%;
+  max-width: 21%;
   margin: 0 50px 0 10px;
 
   /* IE7 hack to mimic inline-block on block elements */
