@@ -9,14 +9,13 @@ body, form {
 #header {
   width: auto;
   height: auto;
+  background-position: bottom;
 }
 
-#header > img {
+.header-logo {
+  max-width: 100%;
+  display: inline-block;
   text-align: center;
-  background-position: bottom;
-  background-position-x: center;
-  background-position-y: bottom;
-  background-repeat: repeat-x;
 }
 
 .l-portfolio {
