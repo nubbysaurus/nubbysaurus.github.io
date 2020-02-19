@@ -43,22 +43,21 @@ img.logo {
 }
 
 /* Layout-level stuff. */
+.l-block {
+  display: block;
+  background-color: #57595d;
+}
 .l-blog {
   max-width: 100%;
   margin: 21px 90px;
   padding: 15px 42px;
   list-style-type: none;
 }
-.l-block {
-  display: block;
-  border: 1px solid #f05e23;
-  background-color: #57595d;
-}
 .l-blog > li {
   vertical-align: left;
   border-left: 6px solid #f05e23;
   background-color: #57595d;
-  margin: 21px 64px;
+/*  margin: 21px 64px;*/
   padding: 0 42px;
   *zoom: 1;
 }
