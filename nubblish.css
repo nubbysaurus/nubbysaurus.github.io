@@ -9,10 +9,6 @@ body, form, ul {
 h1, h2, p {
   margin: 21px;
 }
-h1 {
-  font-size: 420%;
-  color: #f05e23;
-}
 ul {
   font-size: 300%;
   list-style-type: none;
@@ -43,12 +39,20 @@ img.logo {
 }
 
 /* Layout-level stuff. */
+.l-block {
+  display: block;
+  background-color: inherit;
+  margin: 42px;
+  padding: 0;
+}
+
 .l-grey_block {
   display: block;
   background-color: #57595d;
   margin: 42px;
   padding: 0;
 }
+
 .l-blog {
   max-width: 100%;
   padding: 21px 42px;
@@ -81,6 +85,11 @@ img.logo {
 }
 
 /* Module-level stuff. */
+.m-title {
+  font-size: 420%;
+  color: #f05e23;
+}
+
 img.m-list_item {
   max-width: 100%;
   max-height: 100%;
