@@ -26,7 +26,7 @@ img.logo {
 ul.navbar {
   text-align: right;
   max-width: 100%;
-  margin: 0 0 0 180px;
+  margin: 0 180px 0 180px;
   padding: 0;
 }
 ul.navbar > li {
