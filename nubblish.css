@@ -51,15 +51,14 @@ img.logo {
 }
 .l-blog {
   max-width: 100%;
-  /*margin: 21px 90px;*/
-  padding: 15px 42px;
+  padding: 21px 42px;
   background-color: inherit;
   list-style-type: none;
 }
 .l-blog > li {
   vertical-align: left;
   border-left: 6px solid #f05e23;
-  margin: 21px 21px;
+  margin: 6px 42px;
   padding: 0 42px;
   *zoom: 1;
 }
