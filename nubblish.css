@@ -11,7 +11,7 @@ h1, h2, p {
 }
 h1 {
   font-size: 420%;
-  color: #ff8c00;
+  color: #f05e23;
 }
 ul {
   font-size: 300%;
@@ -53,8 +53,8 @@ img.logo {
   display: block;
   vertical-align: left;
   max-width: 100%;
-  border-left: 6px solid #ff8c00;
-  background-color: #d3d3d3;
+  border-left: 6px solid #f05e23;
+  background-color: #57595d;
   margin: 21px 64px;
   padding: 0 42px;
   *zoom: 1;
