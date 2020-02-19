@@ -51,6 +51,7 @@ img.logo {
 }
 .l-blog > span {
   display: block;
+  border: 1px solid #f05e23;
   background-color: #57595d;
 }
 .l-blog > li {
