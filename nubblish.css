@@ -58,6 +58,7 @@ img.logo {
 .l-blog > li {
   vertical-align: left;
   border-left: 6px solid #f05e23;
+  border-bottom: 3px solid #2b2d2f;
   margin: 6px 42px;
   padding: 0 42px;
   *zoom: 1;
