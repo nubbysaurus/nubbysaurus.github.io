@@ -44,15 +44,16 @@ img.logo {
 
 /* Layout-level stuff. */
 .l-blog {
+  display: block;
   max-width: 100%;
+  background-color: #57595d;
   margin: 21px 90px;
   padding: 10px 50px;
   list-style-type: none;
+
 }
 .l-blog > li {
-  display: block;
   vertical-align: left;
-  max-width: 100%;
   border-left: 6px solid #f05e23;
   background-color: #57595d;
   margin: 21px 64px;
