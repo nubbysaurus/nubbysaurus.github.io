@@ -9,9 +9,14 @@ body, form, ul {
 h1, h2, p {
   margin: 21px;
 }
+ul, li {
+  margin: inherit;
+  padding: inherit;
+  font-size: inherit;
+  list-style-type: none;
+}
 ul {
   font-size: 300%;
-  list-style-type: none;
 }
 
 /* Header stuff. */
