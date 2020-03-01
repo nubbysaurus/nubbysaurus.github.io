@@ -1,6 +1,6 @@
 /* Base attributes for nubblish formatting. */
 body, form, ul {
-  font-size: 16px;
+  font-size: 21px;
   background-color: #000000;
   color: #ffffff;
   margin: 0;
@@ -16,7 +16,7 @@ ul, li {
   list-style-type: none;
 }
 ul {
-  font-size: 100%;
+  font-size: 150%;
 }
 
 /* Header stuff. */
